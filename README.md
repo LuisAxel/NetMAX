@@ -1,6 +1,6 @@
 NetMAX
 ======
-###### Realizado por Núñez Quintana Luis Axel y Cabrera Pérez Oswaldo
+###### Realizado por Cabrera Pérez Oswaldo y Núñez Quintana Luis Axel
 
 
 En este proyecto, se realiza la creación de una **base de datos relacional distribuida oracle** a partir de un caso de estudio.
